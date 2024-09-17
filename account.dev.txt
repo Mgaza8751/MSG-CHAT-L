@@ -1,6 +1,6 @@
 [
 {
-    "domain": ".facebook.com",
+    "Princess Pauline": ".facebook.com",
     "expirationDate": 1756128817.657114,
     "hostOnly": false,
     "httpOnly": false,
